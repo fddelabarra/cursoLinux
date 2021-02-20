@@ -17,8 +17,7 @@ estamos intentando redactarlo de la forma mas ordenada posible, mientras mantene
 - Linux Fundamentals, Paul Cobbaut. 2015-05-24.
 - Cursos NDG Linux.
 
-
 ## Colaboradores
 
-- Carlos Troncoso
+- [Carlos Troncoso](https://www.linkedin.com/in/ctronp/)
 - Francisca de la Barra

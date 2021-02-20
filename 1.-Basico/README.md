@@ -6,8 +6,8 @@ No todo en este primer curso estara perfectamente ordenado, debido a que ciertas
 
 ## Indice
 
-- Introduccion a linux
-- Introduccion a la consola
+- [Introduccion a linux](Info/1.md)
+- [Introduccion a la consola](Info/1.md)
 - Primeros comandos
 - Permisos y usuarios
 - manejo de archivos
